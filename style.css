@@ -157,7 +157,7 @@ a {
 
 .cta {
     display: flex;
-    padding: 70px 200px;
+    padding: 60px 200px;
     background-color: #3882f6;
     border-radius: 15px;
     gap: 200px;
@@ -181,5 +181,17 @@ a {
     border-radius: 5px;
     border: #f9faf8 solid 2px;
     font-size: 16px;
+}
+
+.sixth-row {
+    display: flex;
+    background-color: #1f2937;
+    padding: 50px;
+    align-items: center;
+    justify-content: center;
+}
+
+#copyright-text {
+    color: #f9faf8;
 }
 
